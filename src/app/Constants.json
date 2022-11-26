@@ -1,0 +1,12 @@
+{
+	"url_db" : "jdbc:mysql://localhost:3306/amazon",
+	"user" : "operator",
+	"pass" : "operator",
+	"timeOut" : "100",
+	"base_uri" : "https://www.amazon.com.au/",
+	"target_price_locator" : "[class$='a-color-price']",
+	"target_name_locator" : "[class$='p13n-product-image']",
+		
+		
+}
+
